@@ -1,0 +1,16 @@
+.letras span{
+    margin-right: 5px;
+    padding: 8px 13px;
+    border: 1px solid black;
+    border-radius: 5px
+
+}
+
+div{
+    margin: 50px auto;
+}
+
+.centrado{
+    text-align: center;
+    justify-content: center;
+}
